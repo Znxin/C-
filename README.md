@@ -1,4 +1,4 @@
-# C-
+# C++
 C++ Daily Practice Record
 
 2019
